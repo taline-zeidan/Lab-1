@@ -3,6 +3,5 @@ public class Me {
 		System.out.println("Taline Zeidan");
 		System.out.println("Computer Engineering");
 		System.out.println("I am in my second year of study");
-		
 	}
 }
